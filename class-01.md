@@ -13,7 +13,7 @@ In this point I will dirctly mention this steps from book
 
  **"The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created."**
 
-According tp cahpter 8 Extra Markup they talk about the diffrent between While loop and do While loop and the difference between them :
+According to cahpter 8 Extra Markup they talk about the diffrent between While loop and do While loop and the difference between them :
 
 1- While Loops
 
