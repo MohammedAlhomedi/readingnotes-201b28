@@ -2,6 +2,7 @@
 
 | name | link |
 | ----------- | ----------- |
+| class01 | [ Introductory HTML and JavaScript ](class-01.md) |
 | read01 | [ Introductory HTML and JavaScript ](read1.md) |
 | read02 | [ HTML Text, CSS Introduction, and Basic JavaScript Instructions ](read2.md) |
 | read03 | [ HTML Lists, CSS Boxes, JS Control Flow ](read3.md) |
