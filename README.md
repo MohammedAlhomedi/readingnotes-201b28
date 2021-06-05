@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 | name | link |
 | ----------- | ----------- |
-| read01 | [Introductory HTML and JavaScript](read1.md)
+| read01 | [Introductory HTML and JavaScript](read1.md)|
 | read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](read2.md) |
 | read03 | [HTML Lists, CSS Boxes, JS Control Flow](read3.md) |
 | read04 | [ HTML Links, CSS Layout, JS Functions](read04.md) |
